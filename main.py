@@ -1,7 +1,7 @@
 from selenium import webdriver
 import time
 
-driver = webdriver.Chrome() #for firefox you can use webdriver.Firefox()
+driver = webdriver.Chrome()
 
 
 usr = input('Enter Email Id: ')
